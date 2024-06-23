@@ -2,9 +2,7 @@
 - 👀 I’m interested in technology.
 - 🌱 I’m currently learning codes.
 - 💞️ I’m looking to collaborate on technology fields.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 BishnuX/BishnuX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
